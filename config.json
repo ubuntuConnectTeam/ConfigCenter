@@ -1,0 +1,24 @@
+[
+    {
+      "operator": "ایرانسل",
+      "config": {
+        "country": "English",
+        "text": "UTC+0"
+      }
+    },
+    {
+        "operator": "ایرانسل",
+        "config": {
+          "country": "English",
+          "text": "UTC+0"
+        }
+      },
+      {
+        "operator": "ایرانسل",
+        "config": {
+          "country": "English",
+          "text": "UTC+0"
+        }
+      }
+  ]
+  
