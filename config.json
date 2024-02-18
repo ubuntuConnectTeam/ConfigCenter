@@ -17,8 +17,28 @@
         "operator": "ایرانسل",
         "config": {
           "country": "English",
-          "text": "vless://a93eacd2-2852-4d84-9355-fd1e6477dccc@mtn----join.outline-vpn.cloud:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=tunn.free.hr&type=ws#Irancell+312+%28%40Outline_Vpn%299"
+          "text": "vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@104.21.28.62:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#@meli_proxyy"
+        }
+      },
+      {
+        "operator": "ایرانسل",
+        "config": {
+          "country": "English",
+          "text": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLMjI3c1V2b0lJNGlMZkpKNFUwTExP@52.142.190.70:13499#@meli_proxyy"
+        }
+      },
+      {
+        "operator": "ایرانسل",
+        "config": {
+          "country": "English",
+          "text": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxRnFxS2Y3OEZ1TUhuQnFveGVXejRS@51.11.104.69:16550#@meli_proxyy"
+        }
+      },
+      {
+        "operator": "ایرانسل",
+        "config": {
+          "country": "English",
+          "text": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprVGpsTHhybmNLeDRpMkhJanhmQTNN@51.142.171.150:49499#@meli_proxyy"
         }
       }
   ]
-  
