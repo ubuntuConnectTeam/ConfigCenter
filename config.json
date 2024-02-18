@@ -3,7 +3,7 @@
       "operator": "ایرانسل",
       "config": {
         "country": "English",
-        "text": "vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@freee.outline-vpn.cloud:443?path=%2F%3Fed&security=tls&encryption=none&host=w1.sylar8.eu.org&type=ws&sni=w1.sylar8.eu.org#Irancell+310+%28%40Outline_Vpn%29"
+        "text": "vmess://eyJhZGQiOiIxMDQuMjEuMzMuMzIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im5lbGx5LmhvbWVzIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6IkBtZWxpX3Byb3h5ediz2LHZiNix2KfbjOKAjNio24zYtNiq2LEiLCJzY3kiOiJhdXRvIiwic25pIjoibmVsbHkuaG9tZXMiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
       }
     },
     {
