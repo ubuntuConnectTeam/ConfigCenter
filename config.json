@@ -1,25 +1,4 @@
 [
-    {
-      "operator": "ایرانسل",
-      "config": {
-        "country": "English",
-        "text": "vmess://eyJhZGQiOiIxMDQuMjEuMzMuMzIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im5lbGx5LmhvbWVzIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6IkBtZWxpX3Byb3h5ediz2LHZiNix2KfbjOKAjNio24zYtNiq2LEiLCJzY3kiOiJhdXRvIiwic25pIjoibmVsbHkuaG9tZXMiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
-      }
-    },
-    {
-        "operator": "ایرانسل",
-        "config": {
-          "country": "English",
-          "text": "vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@mtn--join.outline-vpn.cloud:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#Irancell+311+%28%40Outline_Vpn%29"
-        }
-      },
-      {
-        "operator": "ایرانسل",
-        "config": {
-          "country": "English",
-          "text": "vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@104.21.28.62:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#@meli_proxyy"
-        }
-      },
       {
         "operator": "ایرانسل",
         "config": {
